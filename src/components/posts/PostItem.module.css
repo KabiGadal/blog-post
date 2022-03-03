@@ -1,0 +1,32 @@
+.item {
+  margin: 1rem 0;
+  padding: 1rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  border-radius: 6px;
+  background-color: #d6eaff;
+}
+.item_img_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fcfcfc;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  max-height: 300px;
+}
+
+.item_img {
+  margin: 0 auto;
+  height: 100px;
+  min-height: 100px;
+  object-fit: contain;
+  background-color: #ccc;
+}
+.content {
+  line-height: 1.5em;
+  /* height: 3em; */
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  width: 100%;
+}
