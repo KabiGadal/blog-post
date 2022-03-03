@@ -21,9 +21,7 @@
 
 A React based Mini Content Management System where user can browse posts, view post and create new posts
 
-### Live Demo
 
-* [App Demo](https://hamzasajid1995.github.io/blog-post/)
 
 ### Built With
 
