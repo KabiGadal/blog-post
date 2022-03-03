@@ -22,7 +22,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-  https://github.com/KabiGadal/blog-post.git
+   https://github.com/KabiGadal/blog-post.git
    ```
 2. Install NPM packages
    ```sh
